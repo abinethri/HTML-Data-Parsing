@@ -1,0 +1,5 @@
+*.pyc
+*~
+parse1.py
+quizcode.py
+BeautifulSoup.py
